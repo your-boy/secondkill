@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-web/demo-common/demo-common.iml" filepath="$PROJECT_DIR$/demo-web/demo-common/demo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-web/demo-gateway/demo-gateway.iml" filepath="$PROJECT_DIR$/demo-web/demo-gateway/demo-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-web/demo-service/demo-service.iml" filepath="$PROJECT_DIR$/demo-web/demo-service/demo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-support/demo-support.iml" filepath="$PROJECT_DIR$/demo-support/demo-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-support/demo-support-common/demo-support-common.iml" filepath="$PROJECT_DIR$/demo-support/demo-support-common/demo-support-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-support/demo-support-dao/demo-support-dao.iml" filepath="$PROJECT_DIR$/demo-support/demo-support-dao/demo-support-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-support/demo-support-export/demo-support-export.iml" filepath="$PROJECT_DIR$/demo-support/demo-support-export/demo-support-export.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-support/demo-support-launcher/demo-support-launcher.iml" filepath="$PROJECT_DIR$/demo-support/demo-support-launcher/demo-support-launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-support/demo-support-service/demo-support-service.iml" filepath="$PROJECT_DIR$/demo-support/demo-support-service/demo-support-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-vertx-web/demo-vertx.iml" filepath="$PROJECT_DIR$/demo-vertx-web/demo-vertx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-vertx-web/demo-vertx-gateway/demo-vertx-gateway.iml" filepath="$PROJECT_DIR$/demo-vertx-web/demo-vertx-gateway/demo-vertx-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-vertx-web/demo-vertx-service/demo-vertx-service.iml" filepath="$PROJECT_DIR$/demo-vertx-web/demo-vertx-service/demo-vertx-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-web/demo-web.iml" filepath="$PROJECT_DIR$/demo-web/demo-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/secondkill.iml" filepath="$PROJECT_DIR$/.idea/secondkill.iml" />
+    </modules>
+  </component>
+</project>
